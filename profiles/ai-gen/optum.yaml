@@ -1,0 +1,69 @@
+Here's an updated version of your resume tailored to the job posting requirements:
+
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Cloud Data Engineer / Data Architect"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly skilled Data Engineer and Architect with 12+ years of experience designing, implementing, and optimizing scalable Big Data and Cloud solutions. Proven expertise in Python, Spark, Azure, Databricks, Snowflake, Airflow, and containerization. Adept at architecting and developing end-to-end data pipelines, data warehouses, and analytic platforms. Strong collaborator with a track record of mentoring junior engineers and partnering with cross-functional teams."
+
+skills:
+  - Python
+  - PySpark
+  - Spark
+  - Databricks
+  - Snowflake
+  - Azure
+  - GCP
+  - AWS
+  - Airflow
+  - Containerization
+  - CI/CD (Jenkins)
+  - MySQL
+  - NoSQL
+  - Data Warehousing
+  - Data Pipelines
+  - Solution Architecture
+  - Agile Methodologies
+  - Technical Documentation
+
+experience:
+  - company: "AdAction"
+    location: "Austin, TX"
+    title: "Sr. BI Analyst & Manager"
+    start_date: "June 2022"
+    end_date: "August 2024"
+    tasks:
+      - "Designed and implemented scalable data pipelines and ETL processes using Python, Airflow, and AWS services."
+      - "Developed and optimized data warehousing solutions on AWS Redshift and Google BigQuery."
+      - "Conducted code reviews, design sessions, and mentored junior data engineers."
+      - "Created prototypes and proof-of-concepts for new data solutions and technologies."
+
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Architected and deployed data warehousing and BI solutions using Snowflake, Databricks, and Python."
+      - "Developed and maintained data pipelines and ETL processes using Airflow and PySpark."
+      - "Provided technical leadership, mentoring, and guidance to a team of data engineers and analysts."
+      - "Collaborated with cross-functional teams to gather requirements and deliver data-driven solutions."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Developed user acquisition models and optimized marketing spend using Python and SQL."
+      - "Created insights dashboards and reports for Sales, Marketing, and Product teams."
+      - "Worked closely with Engineering teams on data-driven growth initiatives."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"

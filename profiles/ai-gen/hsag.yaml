@@ -1,0 +1,89 @@
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Analytics Manager"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly analytical and data-driven professional with over 7 years of experience in healthcare analytics, project management, and data science. Proven ability to manage multiple projects simultaneously, lead cross-functional teams, and deliver high-quality analytical solutions. Proficient in data analysis, report generation, and proposal writing."
+
+skills:
+  - Python
+  - SQL
+  - Tableau
+  - git
+  - dbt
+  - Airflow
+  - GCP
+  - AWS
+  - Postgres
+  - MySQL
+  - Redshift
+  - Snowflake
+  - BigQuery
+  - AWS S3
+  - Microsoft Office Suite (Word, PowerPoint, Excel, Outlook)
+  - Project Management
+  - Research & Analysis
+  - Healthcare Analytics
+  - Data Science
+  - Proposal Writing
+
+experience:
+  - company: "AdAction"
+    location: "Austin, TX"
+    title: "Sr. BI Analyst & Manager"
+    start_date: "June 2022"
+    end_date: "August 2024"
+    tasks:
+      - "Managed multiple healthcare analytics projects, overseeing implementation, day-to-day management, analysis, and reporting."
+      - "Developed work plans, timelines, and project documentation, ensuring adherence to deadlines and quality standards."
+      - "Conducted research and literature searches on clinical topics to support project deliverables."
+      - "Supervised and mentored junior staff, providing coaching and training on analytical techniques and tools."
+      - "Collaborated with project partners, subcontractors, and stakeholders to ensure effective communication and project success."
+      - "Maintained project files and documentation on SharePoint and corporate networks, following governance rules."
+      - "Prepared support documents, reports, and deliverables in Microsoft Word and Excel."
+      - "Participated in healthcare educational and training presentations to enhance domain knowledge."
+
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Managed a team of 3 analysts and 7 contractors, responsible for project roadmap, stakeholder management, and backlog prioritization."
+      - "Mentored team members on SQL, Python, git, and other analytical tools, fostering professional development."
+      - "Collaborated cross-functionally with engineering and product teams on business initiatives and data-driven solutions."
+      - "Developed advanced pricing dashboards, resulting in increased quarterly sales of $500k."
+      - "Implemented Agile methodologies to enhance team performance and project delivery."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Developed and launched user acquisition models, optimizing $10MM spend."
+      - "Created insights dashboards for Sales & Marketing teams, focusing on retention, CAC, LTV, and other key metrics."
+      - "Collaborated with product and engineering teams on growth initiatives, providing data-driven insights and recommendations."
+
+  - company: "Spiceworks"
+    location: "Austin, TX"
+    title: "Business Analyst"
+    start_date: "Aug 2016"
+    end_date: "Feb 2018"
+    tasks:
+      - "Provided analytics support that contributed to closing the largest deal ($11MM)."
+      - "Managed marketing campaign analytics for director and VP-level clients."
+      - "Created dashboards and reports for sales, marketing, and product teams, enabling data-driven decision-making."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"
+
+hobbies:
+  - "UDemy Content Creator: https://www.udemy.com/user/oscar-2330/"
+  - "YouTube Content Creator: https://www.youtube.com/analystscorner"
+  - "Hiking the numerous trails in Austin, TX"

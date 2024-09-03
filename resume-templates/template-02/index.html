@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Resume - <!--name --></title>
+        <style>
+            body {
+                font-family: Helvetica, Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #fff;
+                color: #000;
+                line-height: 1.6;
+            }
+
+            .container {
+                width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+
+            .header {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .header h1 {
+                font-size: 36px;
+                margin: 0;
+                letter-spacing: 2px;
+            }
+
+            .header h2 {
+                font-size: 18px;
+                margin-top: 5px;
+                font-weight: normal;
+                letter-spacing: 2px;
+            }
+
+            .left,
+            .right {
+                width: 48%;
+            }
+
+            .left {
+                float: left;
+            }
+
+            .right {
+                float: right;
+            }
+
+            .contact,
+            .education,
+            .skills {
+                font-size: 13px;
+            }
+            ,
+            .interests {
+                margin-bottom: 20px;
+            }
+
+            .contact h3,
+            .education h3,
+            .skills h3,
+            .interests h3 {
+                font-size: 16px;
+                margin-bottom: 10px;
+                text-transform: uppercase;
+                border-bottom: 1px solid #000;
+                padding-bottom: 5px;
+                letter-spacing: 1px;
+            }
+
+            .contact p,
+            .education p,
+            .skills p,
+            .interests p {
+                margin: 5px 0;
+            }
+
+            .summary,
+            .experience {
+                margin-bottom: 20px;
+            }
+
+            .summary h3,
+            .experience h3 {
+                font-size: 16px;
+                margin-bottom: 10px;
+                text-transform: uppercase;
+                border-bottom: 1px solid #000;
+                padding-bottom: 5px;
+                letter-spacing: 1px;
+            }
+
+            .experience h4 {
+                font-size: 14px;
+                margin: 10px 0;
+                font-weight: bold;
+            }
+
+            .experience p {
+                margin: 5px 0;
+            }
+
+            .clearfix::after {
+                content: "";
+                clear: both;
+                display: table;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1><!--name --></h1>
+                <h2><!--title --></h2>
+            </div>
+
+            <div class="clearfix">
+                <div class="left">
+                    <div class="contact">
+                        <h3>Contact</h3>
+                        <p>
+                            Email:
+                            <!--email -->
+                        </p>
+                        <p>
+                            Phone:
+                            <!--phone -->
+                        </p>
+                        <p>
+                            LinkedIn:
+                            <!--url -->
+                        </p>
+                    </div>
+
+                    <div class="education">
+                        <h3>Education</h3>
+                        <p><!--degree --></p>
+                        <p><!--university --></p>
+                    </div>
+
+                    <div class="skills">
+                        <h3>Skills</h3>
+                        <ul>
+                            <!--skills -->
+                        </ul>
+                    </div>
+
+                    <div class="interests">
+                        <h3>Interests</h3>
+                        <ul>
+                            <!--hobbies -->
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="right">
+                    <div class="summary">
+                        <h3>Executive Summary</h3>
+                        <p><!--intro --></p>
+                    </div>
+
+                    <div class="experience">
+                        <h3>Professional Experience</h3>
+                        <!--experience -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

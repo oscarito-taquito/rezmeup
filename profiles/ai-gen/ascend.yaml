@@ -1,0 +1,79 @@
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Business Data Analyst"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly analytical Business Data Analyst with extensive experience in financial services and digital banking. Skilled in project management, process improvement, data analysis, and reporting. Proficient in developing business requirements, KPIs, and actionable insights to drive product strategy and enhance customer experience. Experienced in collaborating with cross-functional teams, stakeholder management, and communicating with executive leadership."
+
+skills:
+  - Python
+  - SQL
+  - Tableau
+  - git
+  - dbt
+  - Airflow
+  - GCP
+  - AWS
+  - Postgres
+  - MySQL
+  - Redshift
+  - Snowflake
+  - BigQuery
+  - AWS S3
+  - Microsoft Office (Word, Excel, PowerPoint)
+  - Project Management
+  - Process Modeling & Improvement
+  - Financial Analysis
+  - Data Analysis & Reporting
+  - Stakeholder Management
+  - Presentation Skills
+  - Cross-functional Collaboration
+
+experience:
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Created bulk pricing dashboard yielding $500k increased quarterly sales."
+      - "Responsible for $200MM of competitive pricing coverage."
+      - "Developed business requirements, project roadmaps, and stakeholder management."
+      - "Formed a high-performing Agile team, collaborating with Engineering & Product teams."
+      - "Wrote code to create scalable data pipelines & processes."
+      - "Monitored KPIs and provided insightful analysis for business decisions."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Developed user acquisition models, optimizing $10MM marketing spend."
+      - "Created insights dashboards for Sales & Marketing (retention, CAC, LTV, etc.)."
+      - "Collaborated with Product & Engineering teams on growth initiatives."
+      - "Analyzed customer data to provide actionable insights and recommendations."
+
+  - company: "Spiceworks"
+    location: "Austin, TX"
+    title: "Business Analyst"
+    start_date: "Aug 2016"
+    end_date: "Feb 2018"
+    tasks:
+      - "Provided analytics to support closing the largest deal ($11MM)."
+      - "Managed marketing campaign analytics for Director & VP level clients."
+      - "Created dashboards and reports for Sales, Marketing & Product teams."
+      - "Monitored and reported on business objectives and KPIs."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"
+
+hobbies:
+  - "UDemy Content Creator: https://www.udemy.com/user/oscar-2330/"
+  - "YouTube Content Creator: https://www.youtube.com/analystscorner"
+  - "Hiking the numerous trails in Austin, TX"
