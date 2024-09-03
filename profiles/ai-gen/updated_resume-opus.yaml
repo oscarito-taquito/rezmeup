@@ -1,0 +1,66 @@
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Business Intelligence Engineer"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly technical Analytics Leader with expertise in developing innovative data solutions on cloud platforms. Proficient in SQL, Python, and Big Data technologies. Proven track record of delivering actionable insights and driving business impact through advanced analytics."
+
+skills:
+  - Python
+  - SQL
+  - AWS
+  - GCP
+  - Redshift
+  - Snowflake
+  - BigQuery
+  - Data Warehousing
+  - ETL/ELT
+  - Data Pipelines
+  - Cloud Computing
+  - Big Data
+  - Agile Methodologies
+
+experience:
+  - company: "AdAction"
+    location: "Austin, TX"
+    title: "Sr. BI Analyst & Manager"
+    start_date: "June 2022"
+    end_date: "August 2024"
+    tasks:
+      - "Designed and implemented scalable data workflows and pipelines on cloud platforms for reporting and processes."
+      - "Developed player cohort reporting to inform marketing ROI and profitability, leveraging Big Data technologies."
+      - "Created anti-fraud process preventing $15k in weekly fraud losses."
+      - "Utilized Agile methodologies to lead Sprint Planning and ensure timely delivery of projects."
+
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Created bulk pricing dashboard yielding $500k increased quarterly sales, leveraging cloud-based data solutions."
+      - "Led a team responsible for $200MM of competitive pricing coverage, utilizing advanced analytics."
+      - "Designed and implemented scalable data pipelines and processes to support business initiatives."
+      - "Collaborated cross-functionally with Engineering and Product teams to deliver data-driven solutions."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Developed and launched user acquisition models, optimizing $10MM spend through data-driven insights."
+      - "Created insights dashboards for Sales & Marketing teams, providing actionable data on key metrics such as retention, CAC, and LTV."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"
+
+hobbies:
+  - "UDemy Content Creator: https://www.udemy.com/user/oscar-2330/"
+  - "YouTube Content Creator: https://www.youtube.com/analystscorner"
+  - "Hiking the numerous trails in Austin, TX"

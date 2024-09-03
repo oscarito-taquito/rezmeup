@@ -1,0 +1,93 @@
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Business Intelligence Engineer"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly technical multi-industry Analytics Leader with a strong background in building and maintaining enterprise reporting and business intelligence platforms. Extensive experience in designing, building, testing, and maintaining reports and dashboards across various business use cases. Proficient in SQL, Python, and tools like Tableau, Domo, and other BI platforms. Skilled in gathering requirements, identifying data sources, and constructing ETL/ELT processes. Adept at setting and measuring KPIs, and providing guidance on data management and warehousing best practices."
+
+skills:
+  - SQL
+  - Python
+  - Tableau
+  - Domo
+  - Power BI
+  - Looker
+  - Qlik
+  - SAS
+  - Informatica
+  - Snowflake
+  - Redshift
+  - BigQuery
+  - AWS S3
+  - git
+  - dbt
+  - Airflow
+  - Data Warehousing
+  - ETL/ELT
+  - KPI Development
+  - Requirement Gathering
+  - Report Design
+  - Dashboard Creation
+  - Data Analysis
+  - Business Process Improvement
+
+experience:
+  - company: "AdAction"
+    location: "Austin, TX"
+    title: "Sr. BI Analyst & Manager"
+    start_date: "June 2022"
+    end_date: "August 2024"
+    tasks:
+      - "Designed, built, tested, and maintained reports and dashboards for a variety of business use cases in Tableau and Domo BI platforms."
+      - "Reviewed designs, builds, and tests of other report analysts."
+      - "Worked closely with end users to gather requirements for reports and provided guidance and recommendations on establishing KPIs."
+      - "Identified and vetted source application data for transfer to a data warehouse and assisted with construction and execution of ETL/ELT processes."
+      - "Provided input into the methodologies, practices, documentation, and standards used in the reporting ecosystem."
+      - "Guided and recommended to other BI and IT teams to maintain an accurate and efficient reporting ecosystem with robust enterprise documentation."
+      - "Identified opportunities for process improvement in data collection, data analysis, business processes, and enterprise engagement with reporting."
+
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Created bulk pricing dashboard yielding $500k increased quarterly sales."
+      - "Managed a team responsible for $200MM of competitive pricing coverage."
+      - "Responsible for team roadmap, stakeholder management, and backlog prioritization."
+      - "Formed a high-level performing team utilizing Agile."
+      - "Worked cross-functionally with Engineering & Product teams on business initiatives."
+      - "Wrote code to create scalable data pipelines & processes."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Developed and launched user acquisition models, optimized $10MM spend."
+      - "Created insights dashboards for Sales & Marketing (retention, CAC, LTV, etc.)."
+      - "Worked with Product & Engineering teams on growth initiatives."
+
+  - company: "Spiceworks"
+    location: "Austin, TX"
+    title: "Business Analyst"
+    start_date: "Aug 2016"
+    end_date: "Feb 2018"
+    tasks:
+      - "Provided analytics to close largest deal ($11MM)."
+      - "Managed marketing campaign analytics for Director & VP level clients."
+      - "Created dashboards and reports for Sales, Marketing & Product teams."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"
+
+hobbies:
+  - "UDemy Content Creator: https://www.udemy.com/user/oscar-2330/"
+  - "YouTube Content Creator: https://www.youtube.com/analystscorner"
+  - "Hiking the numerous trails in Austin, TX"

@@ -1,0 +1,69 @@
+Job Posting Title:
+Analyst, IT Reporting
+
+Job Description Summary:
+To have a hand in building a new reporting infrastructure from the ground up to support a robust and meaningful business intelligence platform that serves the whole college.
+
+Job Description:
+Description of Duties and TasksEssential duties and responsibilities include the following. Other duties may be assigned.
+
+    Designs, builds, tests, and maintains reports and dashboards for a variety of business use cases in Domo business intelligence platform.
+    Reviews Designs, builds, tests of other report analysts.
+    Works closely with end users to gather requirements for reports and provide guidance and recommendations on establishing KBRs and KPIs where needed.
+    Identifies and vets source application data for transfer to a data hub/data warehouse and subsequent analysis, and sometimes assisting with construction or execution of ETL/ELT processes.
+    Provides input into the methodologies, practices, documentation and standards used.
+    Guides and recommends to other BI and IT teams to maintain an accurate and efficient reporting ecosystem with robust enterprise documentation.
+    Identifies opportunities for process improvement in data collection, data analysis, business processes, and enterprise engagement with reporting.
+
+
+
+KnowledgeMust possess required knowledge and be able to explain and demonstrate, with or without reasonable accommodations, that the essential functions of the job can be performed.
+
+    Detailed knowledge and competency in at least two prominent reporting software tools.
+    High level of knowledge and competency with database management systems.
+    Experience with SQL to query data based on varying degrees of logic.
+    Advanced experience with analytics platforms and tools like Domo, Tableau, Looker, Power BI, Qlik, Sisense, SAS, etc. (Domo a plus).
+    Strong knowledge of best practices and principles behind setting, measuring, and refining KBRs and KPIs across a variety of business use cases.
+    Knowledge of reporting tools and best practices of those specific tools.
+    Thorough understanding of data management and ETL/ELT processes, experience with Informatica or other warehousing tools and iPaaS or other cloud-based enterprise tools a plus and the ability to mentor/guide others.
+    Understanding of data warehousing principles and best practices and the ability to explain that understanding to others.
+
+
+
+SkillsMust possess required skills and be able to explain and demonstrate, with or without reasonable accommodations, that the essential functions of the job can be performed.
+
+    Maintaining an established work schedule.
+    Effectively using interpersonal and communications skills including tact and diplomacy.
+    Effectively using organizational and planning skills with attention to detail and follow-through.
+    Creating specialized reporting solutions, using multiple files and file pointers.
+    Data collection, analysis, and report writing.
+    Ability to understand and follow instructions precisely.
+    Maintaining confidentiality of work-related information and materials.
+    Establishing and maintaining effective working relationships.
+    Ability to work independently and be self-motivated.
+    Ability to communicate with a broad range of audience including senior level leadership.
+
+
+
+Technology Skills
+
+    Use a variety of spreadsheet, word processing, database, and presentation software.
+    Use query and control languages, program, create complex reports, deal with database management systems, and provide technical support.
+
+
+
+Required Work Experience
+
+    Two years related work experience.
+
+
+
+Preferred Work Experience
+
+    One or more years of experience with enterprise reporting and analytics, from providing scheduled daily notifications to producing executive-level analysis, SQL experience a plus.
+
+
+
+Required Education
+
+    Bachelor's degree.

@@ -1,0 +1,89 @@
+personal_info:
+  name: "Oscar Valles"
+  location: "Austin, TX"
+  phone: "(512) 517-5555"
+  email: "myname@gmail.com"
+  title: "Business Intelligence Engineer"
+  url: "http://oscarvalles.com"
+
+about:
+  intro: "Highly technical multi-industry Analytics Leader. Architect of ETL & other processes with expert proficiency in languages such as SQL, Python and platforms including Tableau Server, AWS & GCP. Consistently delivering measurable business impact."
+
+skills:
+  - Python
+  - SQL
+  - Tableau
+  - git
+  - dbt
+  - Airflow
+  - GCP
+  - AWS
+  - Postgres
+  - MySQL
+  - Redshift
+  - Snowflake
+  - BigQuery
+  - AWS S3
+
+experience:
+  - company: "AdAction"
+    location: "Austin, TX"
+    title: "Sr. BI Analyst & Manager"
+    start_date: "June 2022"
+    end_date: "August 2024"
+    tasks:
+      - "Code scalable data workflows and pipelines for reporting and processes."
+      - "Create reports and dashboards for C-Suite to IC audiences."
+      - "Develop player cohort reporting informing marketing ROI and profitability."
+      - "Analyze mobile player data for player journey insights."
+      - "Develop anti-fraud process preventing $15k in weekly fraud losses."
+      - "Manage team of BI Analysts and contractor."
+      - "Mentor team on SQL, Python, Tableau, and other tools."
+      - "Establish data governance and data quality standards for consistency."
+      - "Met with business stakeholders to understand requirements, objectives and deliverables."
+      - "Ran Weekly Agile Sprint Planning."
+
+  - company: "BlackLocus"
+    location: "Austin, TX"
+    title: "Business Intelligence Manager"
+    start_date: "July 2019"
+    end_date: "June 2022"
+    tasks:
+      - "Developed advanced bulk pricing dashboard yielding $500k increased quarterly sales."
+      - "Team responsible for $200MM of competitive pricing coverage."
+      - "Managed Team of 3 Analysts and 7 Contractors."
+      - "Responsible for team roadmap, stakeholder management, and backlog prioritization."
+      - "Mentor team on SQL, Python, git and other tools."
+      - "Create Dashboard that integrated with downloadable files with Google Cloud Storage and BigQuery."
+      - "Formed a high-level performing team utilizing Agile."
+      - "Work cross-functionally with Eng & Product teams on business initiatives."
+      - "Write code to create scalable data pipelines & processes."
+
+  - company: "RetailMeNot"
+    location: "Austin, TX"
+    title: "Sr. User Insights Analyst"
+    start_date: "Feb 2018"
+    end_date: "July 2019"
+    tasks:
+      - "Develop and launch user acquisition models, optimize $10MM spend."
+      - "Create insights dashboards for Sales & Marketing (retention, CAC, LTV, etc.)."
+      - "Work with Product & Eng on growth initiatives."
+
+  - company: "Spiceworks"
+    location: "Austin, TX"
+    title: "Business Analyst"
+    start_date: "Aug 2016"
+    end_date: "Feb 2018"
+    tasks:
+      - "Provide analytics to close largest deal ($11MM)."
+      - "Managed marketing campaign analytics for Director & VP level clients."
+      - "Create dashboards and reports for Sales, Marketing & Product teams."
+
+education:
+  university: "University of Texas, El Paso"
+  degree: "B.S. Information Systems & Accounting"
+
+hobbies:
+  - "UDemy Content Creator: https://www.udemy.com/user/oscar-2330/"
+  - "YouTube Content Creator: https://www.youtube.com/analystscorner"
+  - "Hiking the numerous trails in Austin, TX"
