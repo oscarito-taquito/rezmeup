@@ -2,7 +2,11 @@
 .zed/
 creatives
 hold/
+resumes/*
+profiles/ai-gen/*
+postings/*.txt
 
 # files
 pyrightconfig.json
 .DS_Store
+*.pyc
